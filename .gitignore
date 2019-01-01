@@ -1,0 +1,11 @@
+*.aci
+*.swp
+*.tgz
+.terraform
+.terraformrc
+build/
+creds
+env.list
+terraform
+terraform.tfstate*
+!/images/terraform
